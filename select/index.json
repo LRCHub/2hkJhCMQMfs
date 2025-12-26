@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Murder In My Mind",
+  "base_artist": "Kordhell",
+  "createdAt": "2025-12-26T02:08:29.961523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Murder In My Mind",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/01_Murder_In_My_Mind_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Murder In My Mind",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/02_Murder_In_My_Mind_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "murder in my mind",
+      "artist": "Lokoy",
+      "has_synced": true,
+      "path": "select/03_murder_in_my_mind_Lokoy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KORDHELL - MURDER IN MY MIND",
+      "artist": "KORDHELL",
+      "has_synced": true,
+      "path": "select/04_KORDHELL_-_MURDER_IN_MY_MIND_KORDHELL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Murder In My Mind (Slowed + Reverb)",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/05_Murder_In_My_Mind_(Slowed_+_Reverb)_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Murder In My Mind",
+      "artist": "KORDHELL",
+      "has_synced": true,
+      "path": "select/06_Murder_In_My_Mind_KORDHELL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Murder In My Mind",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/07_Murder_In_My_Mind_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "KORDHELL - MURDER IN MY MIND",
+      "artist": "KORDHELL",
+      "has_synced": true,
+      "path": "select/08_KORDHELL_-_MURDER_IN_MY_MIND_KORDHELL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KORDHELL - MURDER IN MY MIND (MUSIC VIDEO)",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/09_KORDHELL_-_MURDER_IN_MY_MIND_(MUSIC_VIDEO)_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MURDER IN MY MIND",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/10_MURDER_IN_MY_MIND_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KORDHELL - MURDER IN MY MIND",
+      "artist": "KORDHELL",
+      "has_synced": true,
+      "path": "select/11_KORDHELL_-_MURDER_IN_MY_MIND_KORDHELL.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Murder in My Mind",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/12_Murder_in_My_Mind_Kordhell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Murder In My Mind",
+      "artist": "Kordhell",
+      "has_synced": true,
+      "path": "select/13_Murder_In_My_Mind_Kordhell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Murder In My Mind",
+      "artist": "Kordhell",
+      "has_synced": false,
+      "path": "select/pl_01_Murder_In_My_Mind_Kordhell.txt"
+    }
+  ]
+}
