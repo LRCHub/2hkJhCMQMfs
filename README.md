@@ -1,0 +1,49 @@
+# Kordhell – Murder In My Mind
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.94] Jacking is the shit in the '94
+[00:02.87] Pack my nine-millimeter 'cause I ain't finna go out
+[00:04.95] Like a busta-ass nigga and just lay down
+[00:06.79] I'ma run up on a nigga, shoot my nine with the 15 rounds
+[00:34.79] 
+[00:09.19] Jacking is the shit in the '94
+[00:10.73] Pack my nine-millimeter 'cause I ain't finna go out
+[00:12.76] Like a busta-ass nigga and just lay down
+[00:14.60] I'ma run up on a nigga, shoot my nine with the 15 rounds
+[00:42.60] 
+[00:32.97] Jacking is the shit in the '94
+[00:34.78] Pack my nine-millimeter 'cause I ain't finna go out
+[00:36.71] Like a busta-ass nigga and just lay down
+[00:38.57] I'ma run up on a nigga, shoot my nine with the 15 rounds
+[01:06.57] 
+[00:40.90] Jacking is the shit in the '94
+[00:42.65] Pack my nine-millimeter 'cause I ain't finna go out
+[00:44.64] Like a busta-ass nigga and just lay down
+[00:46.65] I'ma run up on a nigga, shoot my nine with the 15 rounds
+[01:14.65] 
+[00:52.87] Got Lil' E on Cloud Nine
+[00:54.87] Murder, murder in my mind
+[01:01.04] Got Lil' E on Cloud Nine
+[01:03.07] Murder, murder in my mind
+[01:15.57] 
+[01:21.07] Clip, extra clip, he's so swift, in my sock, see
+[01:22.98] Tryna put some bodies on my brand-new Glock, G
+[01:25.03] Niggas runnin' up, talkin' 'bout, "Drop that fuckin' cheese off"
+[01:26.93] And when they try to ease off, that's when I grab the sawed-off
+[01:58.43] 
+[01:29.18] Jacking is the shit in the '94
+[01:30.66] Pack my nine-millimeter 'cause I ain't finna go out
+[01:32.62] Like a busta-ass nigga and just lay down
+[01:34.57] I'ma run up on a nigga, shoot my nine with the 15 rounds
+[02:02.57] 
+[01:40.92] Got Lil' E on Cloud Nine
+[01:43.06] Murder, murder in my mind
+[01:48.90] Got Lil' E on Cloud Nine
+[01:50.97] Murder, murder in my mind
+[02:03.47] 
+[01:58.93] Murder, murder in my mind
+[02:05.06] Got Lil' E on Cloud Nine
+[02:06.86] Murder, murder in my mind
+```
